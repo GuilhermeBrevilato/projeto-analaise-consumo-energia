@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 3. Execute os notebooks na pasta `notebooks/`.
 
-## 👨‍💼 Autor
+## Autor
 
 **Guilherme Brevilato**  
 Assessor Técnico de Obras • Manutenção Predial  
