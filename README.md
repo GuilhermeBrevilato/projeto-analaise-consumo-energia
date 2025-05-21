@@ -3,7 +3,7 @@
 
 ## Contexto
 
-Este projeto analisa o parque de equipamentos de climatização de **quatro unidades hospitalares** pertencentes ao **Módulo Leste II** da Secretaria de Estado da Saúde de São Paulo. A proposta visa avaliar o **consumo energético dos sistemas convencionais de climatização (split e ACJ)** e propor **cenários de retrofit com tecnologia Inverter**, buscando **eficiência energética, sustentabilidade e viabilidade financeira**.
+Este projeto analisa o parque de equipamentos de climatização de quatro unidades hospitalares pertencentes ao Módulo Leste II da Secretaria de Estado da Saúde de São Paulo. A proposta visa avaliar o consumo energético dos sistemas convencionais de climatização (split e ACJ) e propor cenários de retrofit com tecnologia Inverter, buscando eficiência energética, sustentabilidade e viabilidade financeira.
 
 As unidades analisadas foram:
 - Hospital Infantil Cândido Fontoura  
@@ -15,8 +15,8 @@ As unidades analisadas foram:
 
 - Realizar a **limpeza e o tratamento** dos dados do parque de equipamentos.
 - Analisar o comportamento de consumo energético por unidade, considerando dados históricos de temperatura externa.
-- Simular o consumo energético com a substituição dos sistemas atuais por **equipamentos com tecnologia Inverter**.
-- Realizar **análises econômicas** com base em três cenários de economia (20%, 30% e 40%), calculando:
+- Simular o consumo energético com a substituição dos sistemas atuais por equipamentos com tecnologia Inverter.
+- Realizar análises econômicas com base em três cenários de economia (20%, 30% e 40%), calculando:
   - TIR (Taxa Interna de Retorno)
   - VLP (Valor Líquido Presente)
   - Payback Simples
