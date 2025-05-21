@@ -1,5 +1,5 @@
 
-# 📊 Análise do Parque de Equipamentos de Climatização — Unidades Hospitalares do Estado de SP
+# Análise do Parque de Equipamentos de Climatização — Unidades Hospitalares do Estado de SP
 
 ## Contexto
 
