@@ -13,7 +13,8 @@ As unidades analisadas foram:
 
 ## Objetivos
 
-- Realizar a **limpeza e o tratamento** dos dados do parque de equipamentos.
+- Realizar a limpeza a coleta dos dados sobre o comportamento dos equipamentos.
+- Realizar a limpeza e o tratamento dos dados do parque de equipamentos.
 - Analisar o comportamento de consumo energético por unidade, considerando dados históricos de temperatura externa.
 - Simular o consumo energético com a substituição dos sistemas atuais por equipamentos com tecnologia Inverter.
 - Realizar análises econômicas com base em três cenários de economia (20%, 30% e 40%), calculando:
