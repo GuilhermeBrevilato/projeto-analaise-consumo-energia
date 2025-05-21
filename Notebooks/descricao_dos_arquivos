@@ -1,0 +1,44 @@
+Etapa 3 — Notebook: Análise Energética com Base em Temperatura Externa
+Objetivo:
+Avaliar o consumo energético das unidades hospitalares com base:
+
+Na divisão de períodos de operação (manhã e tarde)
+
+No comportamento da temperatura externa (baseado em regras do projeto)
+
+Em cenários de uso do compressor convencional
+
+Regras a considerar (extraídas do PowerPoint):
+Temperatura < 20°C → compressor desligado (consumo ≈ 0)
+
+Temperatura até 27°C (cenário intermediário):
+
+Compressor ligado:
+
+40% do tempo em áreas administrativas
+
+60% do tempo em áreas assistenciais
+
+Cenários baseados em duas faixas de horário:
+
+Manhã: 07:00 – 12:00
+
+Tarde: 12:01 – 20:00
+
+Dados esperados:
+Temperaturas por período (já existentes ou simuladas)
+
+Cruzamento com tipos de centro de custo
+
+Cálculo do consumo energético simulado
+
+Notebook 03_analise_energetica.ipynb conterá:
+Importação dos dados tratados
+
+Simulação de temperatura externa (caso não tenha)
+
+Aplicação das regras de funcionamento
+
+Cálculo do consumo por unidade
+
+Visualizações (boxplots e comparativos)
