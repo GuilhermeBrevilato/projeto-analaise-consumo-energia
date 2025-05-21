@@ -1,7 +1,7 @@
 
 # 📊 Análise do Parque de Equipamentos de Climatização — Unidades Hospitalares do Estado de SP
 
-## 🏥 Contexto
+## Contexto
 
 Este projeto analisa o parque de equipamentos de climatização de **quatro unidades hospitalares** pertencentes ao **Módulo Leste II** da Secretaria de Estado da Saúde de São Paulo. A proposta visa avaliar o **consumo energético dos sistemas convencionais de climatização (split e ACJ)** e propor **cenários de retrofit com tecnologia Inverter**, buscando **eficiência energética, sustentabilidade e viabilidade financeira**.
 
@@ -11,7 +11,7 @@ As unidades analisadas foram:
 - NGA — Ambulatório de Especialidades  
 - Maternidade Leonor Mendes de Barros  
 
-## 🎯 Objetivos
+## Objetivos
 
 - Realizar a **limpeza e o tratamento** dos dados do parque de equipamentos.
 - Analisar o comportamento de consumo energético por unidade, considerando dados históricos de temperatura externa.
@@ -21,7 +21,7 @@ As unidades analisadas foram:
   - VLP (Valor Líquido Presente)
   - Payback Simples
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python**
   - pandas
@@ -31,7 +31,7 @@ As unidades analisadas foram:
 - **Jupyter Notebook**
 - **Git/GitHub**
 
-## 🧼 Etapas do Projeto
+## Etapas do Projeto
 
 1. **Coleta e estruturação dos dados**  
 2. **Exploração e limpeza de dados**  
@@ -40,7 +40,7 @@ As unidades analisadas foram:
 5. **Avaliação financeira dos cenários propostos**  
 6. **Documentação e entrega do projeto**
 
-## 📂 Organização dos Dados
+## Organização dos Dados
 
 ```
 ├── data/
@@ -51,7 +51,7 @@ As unidades analisadas foram:
 ├── outputs/              # Gráficos e relatório final
 ```
 
-## 🚀 Como Executar Localmente
+## Como Executar Localmente
 
 1. Clone o repositório:
 ```bash
@@ -68,6 +68,6 @@ pip install -r requirements.txt
 ## 👨‍💼 Autor
 
 **Guilherme Brevilato**  
-Engenheiro Mecânico • Fiscal de Manutenção Predial  
+Assessor Técnico de Obras • Manutenção Predial  
 Grupo Técnico de Edificações – SES/SP  
 📧 gbrevilato@saude.sp.gov.br  
